@@ -10,7 +10,7 @@
 ## Theme View
 <a href="http://crazymates.de">
     <img src="https://github.com/WebCrew/webCrew_contrast/blob/master/thumbnail.png?raw=true" alt="Theme Screenshot"
-         title="CODO Forum Contrast Theme - Standard View" align="left" />
+         title="CODO Forum Contrast Theme - Standard View" align="center" />
 </a>
 
 ***
